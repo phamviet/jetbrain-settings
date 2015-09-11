@@ -1,0 +1,34 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="195cd6a1-d1a8-437e-be25-6f5d2689ebd8" name="digital" url="http://128.199.104.134">
+        <fileTransfer host="128.199.104.134" port="22" privateKey="$USER_HOME$/infrastructure/teamus-puppet/puppet/modules/teamus/files/provision/ssh/id_rsa" rootFolder="/root" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bb1fea24-3fd2-4c6e-81d2-82f10b4fc99c" name="digital-node-02" url="http://128.199.98.93">
+        <fileTransfer host="128.199.98.93" port="22" privateKey="$USER_HOME$/infrastructure/teamus-puppet/puppet/modules/teamus/files/provision/ssh/id_rsa" rootFolder="/root" accessType="SFTP" username="root" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3feca213-cf10-452f-8e35-4365f83be9bd" name="vn-wo-dev-01" url="http://vn-wo-dev-01">
+        <fileTransfer host="vn-wo-dev-01" port="22" rootFolder="/home/viet/www" accessType="SFTP" password="df9b" username="viet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c3f8154b-287b-4d80-a0ff-b42e6171ac90" name="stablehost" url="http://108.178.60.251">
+        <fileTransfer host="108.178.60.251" port="21" username="viet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

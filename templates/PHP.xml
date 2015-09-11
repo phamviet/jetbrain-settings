@@ -1,0 +1,15 @@
+<templateSet group="PHP">
+  <template name="th" value="$this-&gt;$END$" shortcut="SPACE" description="$this-&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP String Literal" value="true" />
+    </context>
+  </template>
+  <template name="vd" value="var_dump(__LINE__, $END$); die;" shortcut="SPACE" description="var_dump()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="true" />
+    </context>
+  </template>
+</templateSet>

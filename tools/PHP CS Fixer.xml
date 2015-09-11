@@ -1,0 +1,9 @@
+<toolSet name="PHP CS Fixer">
+  <tool name="PHP CS Fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/php-cs-fixer" />
+      <option name="PARAMETERS" value="--level=psr2 --verbose fix $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
