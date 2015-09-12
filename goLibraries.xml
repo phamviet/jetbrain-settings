@@ -1,10 +1,10 @@
 <application>
   <component name="GoLibraries">
     <option name="urls">
-      <set>
-        <option value="file:///usr/local/opt/go" />
+      <list>
         <option value="file:///usr/local/opt/go/libexec" />
-      </set>
+        <option value="file:///usr/local/opt/go" />
+      </list>
     </option>
   </component>
 </application>
