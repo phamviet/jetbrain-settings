@@ -23,7 +23,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="c3f8154b-287b-4d80-a0ff-b42e6171ac90" name="stablehost" url="http://108.178.60.251">
-        <fileTransfer host="108.178.60.251" port="21" username="viet">
+        <fileTransfer host="108.178.60.251" port="21" password="df9ddfc0dfd0dff3df9fdf9ddfc7df9adff3dfc6" username="viet">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
