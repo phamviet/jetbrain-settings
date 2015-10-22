@@ -4,6 +4,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,12 +13,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.xml</mask>
       <mask>*.sass</mask>
       <mask>*.scss</mask>
       <mask>*.phtml</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.yml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
