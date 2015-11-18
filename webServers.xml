@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="d16e488b-10e5-4008-94d7-a1c7b3082898" name="vn-wo-dev-01-vy" url="http://vn-wo-dev-01">
+        <fileTransfer host="vn-wo-dev-01" port="22" rootFolder="/home/vy/www" accessType="SFTP" password="dffadfeadfd9dfd9dfdddfc5dfd8dfcedf9bdf98df99" username="vy">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
