@@ -2,8 +2,11 @@
   <component name="FindSettings">
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,8 +20,8 @@
       <mask>*.xml</mask>
       <mask>*.phtml</mask>
       <mask>*.js</mask>
-      <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
