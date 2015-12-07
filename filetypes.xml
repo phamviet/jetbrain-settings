@@ -4,8 +4,8 @@
     <extensionMap>
       <mapping pattern="README" type="Markdown" />
       <mapping pattern="*.php.dist" type="PHP" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
