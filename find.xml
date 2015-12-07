@@ -6,7 +6,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,10 +18,10 @@
       <mask>*.sass</mask>
       <mask>*.yml</mask>
       <mask>*.xml</mask>
-      <mask>*.phtml</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*.phtml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
